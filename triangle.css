@@ -1,0 +1,23 @@
+#calc {
+  cursor: pointer
+}
+#result {
+  position: absolute; 
+  top: 115px; 
+  left: 85px;
+}
+#namber1 {
+  position: absolute;
+  top: 90px;
+  left: 8px;
+}
+#namber2 {
+  position: absolute;
+  top: 90px;
+  left: 150px;
+}
+#namber3 {
+  position: absolute;
+  top: 170px;
+  left: 77px;
+}
